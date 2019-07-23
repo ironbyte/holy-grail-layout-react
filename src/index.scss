@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+:root {
+  font-family: 'Lato', sans-serif;
+  font-size: 100%;
+}
+
+body {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+
+  p {
+    margin-bottom: 1.5rem;
+  }
+
+  ul {
+    list-style: none;
+  }
+}
